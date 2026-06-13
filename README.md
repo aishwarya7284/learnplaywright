@@ -16,6 +16,7 @@ This repository contains Playwright learning examples and JavaScript concept not
 - `chapter_10_Array/` - Array operations and transformation examples
 - `chapter_11_Functions/` - Function examples, scopes, closures, and higher-order functions
 - `chapter_12_Strings/` - String operations, searching, transformation, and examples
+- `chapter_15_callback/` - Callback examples and async control flow patterns
 
 ## Notes
 
@@ -25,3 +26,8 @@ This repository contains Playwright learning examples and JavaScript concept not
 ## Usage
 
 Open this folder in VS Code and use the integrated terminal to run or edit files.
+
+## Latest additions
+
+- Added `chapter_15_callback/` with callback examples and exercises.
+- Added promise examples in the root: `115_promise.js` through `120_promise_method.js`.
