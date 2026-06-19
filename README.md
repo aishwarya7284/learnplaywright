@@ -16,7 +16,12 @@ This repository contains Playwright learning examples and JavaScript concept not
 - `chapter_10_Array/` - Array operations and transformation examples
 - `chapter_11_Functions/` - Function examples, scopes, closures, and higher-order functions
 - `chapter_12_Strings/` - String operations, searching, transformation, and examples
+- `chapter_13_Objects/` - Object examples and real-world object handling
+- `chapter_14_2D_Array/` - Two-dimensional array examples and matrix handling
 - `chapter_15_callback/` - Callback examples and async control flow patterns
+- `chapter_16_promise/` - Promise examples, chaining, and async workflows
+- `chapter_17_Async_await/` - Async/await examples and error handling
+- `chapter_18_playwright_basics/` - Playwright test examples and browser automation
 
 ## Notes
 
