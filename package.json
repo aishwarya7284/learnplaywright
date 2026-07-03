@@ -1,3 +1,6 @@
 {
-    "type": "module"
+    "type": "commonjs",
+    "scripts": {
+        "start:decorators": "npx tsc \"chapter_30_type_override_decorator/226_decorators.ts\" \"chapter_30_type_override_decorator/228_multiple_deco.ts\" --outDir dist --module commonjs --target ES2020 --experimentalDecorators --emitDecoratorMetadata --ignoreConfig && node dist/chapter_30_type_override_decorator/226_decorators.cjs && node dist/chapter_30_type_override_decorator/228_multiple_deco.cjs"
+    }
 }

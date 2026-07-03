@@ -35,6 +35,7 @@ This repository contains a growing collection of JavaScript, TypeScript, OOP, an
 - chapter_20_Typescript/ - TypeScript fundamentals
 - chapter_21_Interface/ - Interface examples
 - chapter_29_private_public_protected/ - Access modifier examples
+- chapter_30_type_override_decorator/ - TypeScript decorator and type override examples
 
 ## Notes
 
